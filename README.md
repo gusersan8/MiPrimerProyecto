@@ -1,2 +1,3 @@
 # MiPrimerProyecto
-Es mi primer pagina en gif hub
+Es mi primer pagina en git hub
+Conjunto de archivos y bibliotecas de un proyecto.
